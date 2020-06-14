@@ -1,0 +1,21 @@
+{
+    "name": "yes",
+    "version": "1.0.0",
+    "description": "node media server",
+    "main": "index.js",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "not yet created"
+    },
+    "keywords": [
+        "not",
+        "yet",
+        "created"
+    ],
+    "author": "Alexander Ezharjan",
+    "license": "MIT",
+    "dependencies": {
+        "node-media-server": "^2.1.9"
+    }
+}
